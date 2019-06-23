@@ -1,0 +1,11 @@
+.head {
+  width: 100%;
+}
+
+.head h4 {
+  float: left;
+}
+
+.head p {
+  float: right;
+}
